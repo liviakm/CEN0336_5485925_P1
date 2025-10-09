@@ -1,0 +1,19 @@
+total 80
+drwxr-x--- 7 liakemi liakemi  4096 Oct  8 19:41 .
+drwxr-xr-x 3 root    root     4096 Aug 14 11:30 ..
+-rw------- 1 liakemi liakemi  6513 Oct  8 22:20 .bash_history
+-rw-r--r-- 1 liakemi liakemi   220 Aug 14 11:30 .bash_logout
+-rw-r--r-- 1 liakemi liakemi  3771 Aug 14 11:30 .bashrc
+drwx------ 2 liakemi liakemi  4096 Aug 14 11:31 .cache
+-rw-r--r-- 1 liakemi liakemi    62 Oct  8 19:41 .gitconfig
+drwxr-xr-x 2 liakemi liakemi  4096 Aug 24 11:40 .landscape
+-rw------- 1 liakemi liakemi    20 Aug 25 10:22 .lesshst
+drwxr-xr-x 3 liakemi liakemi  4096 Aug 25 10:42 .local
+-rw-rw-r-- 1 liakemi liakemi     0 Oct  9 00:24 .motd_shown
+-rw-r--r-- 1 liakemi liakemi   807 Aug 14 11:30 .profile
+-rw------- 1 liakemi liakemi  1484 Aug 28 15:17 .python_history
+drwx------ 2 liakemi liakemi  4096 Aug 25 12:40 .ssh
+-rw-r--r-- 1 liakemi liakemi     0 Aug 14 15:08 .sudo_as_admin_successful
+-rw------- 1 liakemi liakemi 13532 Aug 28 15:26 .viminfo
+-rw-r--r-- 1 liakemi liakemi   180 Aug 25 10:25 .wget-hsts
+drwxr-xr-x 5 liakemi liakemi  4096 Oct  9 00:25 CEN0330
