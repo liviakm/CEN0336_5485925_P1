@@ -25,12 +25,12 @@ if not valido:
     print("Erro: todas as entradas devem ser números!")
 else:
     # Cabeçalho da tabela
-    print("\nCelsius   Fahrenheit")
+    print("Celsius   Fahrenheit")
     print("--------------------")
 
-    # Converte cada temperatura e imprime o resultado
+# Converte cada temperatura e imprime o resultado
     for temp in celsius_lista:
         c = float(temp)  # converte para número
-        f = (9/5) * c + 32  # fórmula de conversão
+        f = (9/5) * c + 32  # fórmula de conversão de celsius em fahrenheit
         fahrenheit_lista.append(f)  # adiciona à lista de Fahrenheit
-        print(f"{c:>7}   {f:>10.1f}")  # imprime com formatação
+        print(f"{c:>7}   {f:>10.1f}")  # imprime com formatação em colunas, com uma casa decimal para Fahrenheit
